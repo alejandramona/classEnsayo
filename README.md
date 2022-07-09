@@ -1,4 +1,4 @@
-# 3646-pruebas_funcionales_boton_pagos-selenium-java-v-2
+# Prueba tecnica automatizacion
 
 ## Ejecución del proyecto por comandos
 
